@@ -5,16 +5,16 @@
 - Text Heading
 Bagian-bagian penting yang berisi text dari file html yaitu untuk judul dan menerangkan hal penting. Text heading ada banyak
 ```html
-<h1> Sekolah Koding </h1>
-<h2> Sekolah Koding </h2>
-<h3> Sekolah Koding </h3>
-<h4> Sekolah Koding </h4>
-<h5> Sekolah Koding </h5>
-<h6> Sekolah Koding </h6>
+<h1> Belajar HTML </h1>
+<h2> Belajar HTML </h2>
+<h3> Belajar HTML </h3>
+<h4> Belajar HTML </h4>
+<h5> Belajar HTML </h5>
+<h6> Belajar HTML </h6>
 ```
 
 - Text Paragraf
-Isi dari heading dan text biasa penggunan 
+Isi dari heading atau konten yang ingin ditampilkan dalam halaman HTML kita. Menggunakan tag pembuka ```<p>``` dan tag penutup ```</p>```
 ```html
 <p>content</p>
 ```

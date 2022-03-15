@@ -19,7 +19,7 @@ HTML terdiri dari elemen-elemen
 Elemen sendiri terdiri dari
 - < tag pembuka > Konten < /tag penutup >
 Secara umum elemen terdiri dari tag pembuka dan tag penutup tapi ada yang elemen hanya tag pembuka semua HTML di bungkus dengan < html >
-```
+```html
 <html> -> Tag Pembuka
     <head>
         tag head terdiri dari informasi website dan tidak akan melihat contennya
@@ -29,4 +29,16 @@ Secara umum elemen terdiri dari tag pembuka dan tag penutup tapi ada yang elemen
         tag body tediri dari content website itu sendiri
     </body>
 </html> -> Tag Penutup
+```
+
+Contoh:
+```html
+<html>
+    <head> 
+        <title>Belajar HTML</title>
+    </head>
+    <body>
+        Selamat Datang
+    </body>
+</html>
 ```
