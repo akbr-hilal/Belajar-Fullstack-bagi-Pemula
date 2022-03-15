@@ -91,3 +91,11 @@ Contoh:
     <p>Belajar html <span>dan <br> css</span> bagi pemula <br> untuk membangun website <br> dari nol</p>
 </div>
 ```
+
+### Doctype HTML
+HTML punya banyak versi, versi terbaru HTML adalah HTML 5.
+
+HTML harus melakukan deklarasi karena setiap versi HTML punya tag dan fitur berbeda-beda agar browser dapat membaca vesi HTML yang digunakan.
+
+Untuk HTML 5 cukup dengan mengetik ```<!DOCTYPE html>``` diatas element ```<html>```. Sedangkan untuk versi lain bisa dilihat di browser kalian karena HTML dibawah versi 5 deklarasinya cukup ribet
+
